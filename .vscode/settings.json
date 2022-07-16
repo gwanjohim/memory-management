@@ -1,0 +1,5 @@
+{
+    "FSharp.addFsiWatcher": true,
+    "FSharp.dotnetRoot": "/home/elite/BINARIES/dotnet/dotnet",
+    "FSharp.lineLens.enabled": "always"
+}
